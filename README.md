@@ -1,32 +1,35 @@
-<div align="center">
-
+::: {align="center"}
 # 👋 Hi, I'm Muhammad Hamdan
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=4F9CF9&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Engineer;Full+Stack+Developer;Building+AI+Products+for+Real+World+Problems;Always+Learning+Something+New" />
+`<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=4F9CF9&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Student;Machine+Learning+Engineer;Full+Stack+Developer;Building+AI+Products+for+Real+World+Problems;Always+Learning+Something+New"/>`{=html}
 
-<img src="https://komarev.com/ghpvc/?username=mhamdanhontor&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+`<img src="https://komarev.com/ghpvc/?username=mhamdanhontor&label=Profile+Views&color=0e75b6&style=for-the-badge"/>`{=html}
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge)](#)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+:::
 
-</div>
-
----
+------------------------------------------------------------------------
 
 # 🚀 About Me
 
-I'm an Artificial Intelligence undergraduate at **Superior University** with a passion for building intelligent software that solves real-world problems.
+I'm an **Artificial Intelligence undergraduate at Superior University**
+passionate about building production-ready AI systems that solve
+real-world problems.
 
-My journey began with full-stack web development before expanding into Machine Learning, Data Engineering, Computer Vision, Large Language Models, and AI-powered applications.
+My journey began with **Full Stack Web Development** and has expanded
+into **Machine Learning, Data Engineering, Computer Vision, NLP, Large
+Language Models, Agentic AI, and scalable AI-powered applications**.
 
-Rather than focusing only on model training, I enjoy building complete production-ready systems—from collecting data and training models to deploying scalable web applications.
+I enjoy taking projects from **idea → data collection → model training →
+backend APIs → frontend → deployment**.
 
----
+------------------------------------------------------------------------
 
 # 💡 My Journey
 
-```text
+``` text
 Web Development
        │
        ▼
@@ -45,227 +48,288 @@ Computer Vision & NLP
 Large Language Models
        │
        ▼
+Agentic AI & RAG
+       │
+       ▼
 Building Production AI Products 🚀
 ```
 
----
+------------------------------------------------------------------------
+
+# 🚧 Currently Building
+
+-   🤖 AI Document Intelligence Platform
+-   📚 Personalized AI Learning Platform
+-   🧠 Retrieval-Augmented Generation (RAG) Systems
+-   🔍 Production-ready Machine Learning APIs
+
+------------------------------------------------------------------------
 
 # 🧠 Current Focus
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Engineering
-- 📚 Large Language Models (LLMs)
-- 🔍 Computer Vision
-- 🌐 Full Stack Development
-- 🚀 Building AI-powered products
+-   🤖 Artificial Intelligence
+-   🧠 Machine Learning
+-   📊 Data Engineering
+-   📚 Large Language Models (LLMs)
+-   🤝 Agentic AI
+-   🔍 Computer Vision
+-   💬 Natural Language Processing
+-   🌐 Full Stack Development
+-   🚀 Building AI Products
 
----
+------------------------------------------------------------------------
 
 # 💻 Tech Stack
 
 ## Programming Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php,mysql"/>
-
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php,mysql"/>`{=html}
+```{=html}
 </p>
-
----
-
+```
 ## Frontend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,vue,angular,html,css,bootstrap,tailwind"/>
-
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=react,vue,angular,html,css,bootstrap,tailwind"/>`{=html}
+```{=html}
 </p>
-
----
-
+```
 ## Backend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,fastapi,express"/>
-
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel"/>`{=html}
+```{=html}
 </p>
+```
+## AI / Machine Learning
 
----
-
-## AI / ML
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>`{=html}
+```{=html}
 </p>
+```
+### AI Libraries & Frameworks
 
-Additionally experienced with
+-   Hugging Face
+-   Transformers
+-   LangChain
+-   LangGraph
+-   Ollama
+-   RAG
+-   OpenAI API
+-   Gemini API
+-   Scikit-Learn
+-   Pandas
+-   NumPy
+-   XGBoost
+-   CatBoost
+-   LightGBM
+-   PEFT
+-   LoRA
+-   Sentence Transformers
+-   FAISS
+-   ChromaDB
 
-- Scikit-Learn
-- Pandas
-- NumPy
-- XGBoost
-- CatBoost
-- LightGBM
-- HuggingFace
-- Ollama
-- LangChain
-- RAG
-- LLM APIs
+## Databases
 
----
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
-
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/>`{=html}
+```{=html}
 </p>
+```
+## Web Scraping & Data Engineering
 
----
+-   BeautifulSoup
+-   Selenium
+-   Playwright
+-   Scrapy
 
-## Tools
+## DevOps & Tools
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman"/>
-
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman"/>`{=html}
+```{=html}
 </p>
+```
+Learning:
 
----
+-   Docker Compose
+-   Kubernetes
+-   GitHub Actions
+-   Nginx
+-   AWS
+-   Azure
+-   Google Cloud
+
+------------------------------------------------------------------------
 
 # 📂 Featured Projects
 
 ## 🧠 Confusion-HQ
 
-A production-oriented AI platform combining Machine Learning workflows, modern backend architecture, and intelligent automation.
+Production-oriented AI platform combining Machine Learning, intelligent
+automation, backend architecture, and modern web technologies.
 
----
+------------------------------------------------------------------------
 
 ## 🤖 RAG with LLM
 
-Retrieval-Augmented Generation project demonstrating document retrieval with Large Language Models.
+Retrieval-Augmented Generation project demonstrating intelligent
+document search and question answering.
 
----
+------------------------------------------------------------------------
 
 ## 🌐 Blogify
 
-A complete blogging platform built with modern full-stack technologies.
+Modern full-stack blogging platform.
 
----
+------------------------------------------------------------------------
 
 ## 🏫 Smart Campus Management System
 
-A web application designed for managing campus operations and improving administrative workflows.
+Campus administration platform.
 
----
+------------------------------------------------------------------------
 
-## 🏠 ML on Titanic Dataset
+## 🚢 Titanic Survival Prediction
 
-Machine Learning project exploring feature engineering, preprocessing, and predictive modeling.
+Machine Learning pipeline featuring feature engineering, preprocessing,
+and predictive modeling.
 
----
+------------------------------------------------------------------------
 
-## 👕
+## 👕 Fashion-MNIST Classification
 
-Deep Learning on Fashion-MNIST
+Deep learning image classification using neural networks.
 
-Image classification using deep learning techniques.
-
----
+------------------------------------------------------------------------
 
 ## 🔍 Data Engineering Projects
 
-Repositories involving
+-   Google Maps Scraping
+-   LinkedIn Dataset Collection
+-   CosDNA Dataset Scraping
+-   Boots Product Scraping
+-   Business Directory Scraping
 
-- Google Maps Scraping
-- LinkedIn Dataset Collection
-- CosDNA Dataset Scraping
-- Boots Product Scraping
-- Business Directory Scraping
+------------------------------------------------------------------------
 
-using Python automation and web scraping technologies.
+# 🔬 Research Interests
 
----
+-   Generative AI
+-   Large Language Models
+-   Agentic AI
+-   Retrieval-Augmented Generation
+-   Computer Vision
+-   Explainable AI
+-   AI for Education
+
+------------------------------------------------------------------------
+
+# 🤝 Open to Collaborate On
+
+-   Open Source AI Projects
+-   Machine Learning
+-   Full Stack Development
+-   AI Products
+-   Computer Vision
+-   LLM Applications
+
+------------------------------------------------------------------------
 
 # 📈 GitHub Stats
 
-<div align="center">
-
+::: {align="center"}
 ![](https://github-readme-stats.vercel.app/api?username=mhamdanhontor&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mhamdanhontor&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdanhontor&layout=compact&theme=tokyonight&hide_border=true)
+:::
 
-</div>
-
----
+------------------------------------------------------------------------
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-
+::: {align="center"}
 ![](https://github-profile-trophy.vercel.app/?username=mhamdanhontor&theme=algolia&no-frame=true&margin-w=15)
+:::
 
-</div>
-
----
+------------------------------------------------------------------------
 
 # 📊 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mhamdanhontor&theme=tokyo-night)
 
----
+------------------------------------------------------------------------
 
 # 🌱 Currently Learning
 
-- Agentic AI Systems
-- Production Machine Learning
-- MLOps
-- Cloud Deployment
-- AI Product Development
-- Multi-Agent Architectures
-- Large Language Models
-- System Design
+-   Agentic AI Systems
+-   Production Machine Learning
+-   MLOps
+-   Cloud Deployment
+-   Kubernetes
+-   Docker
+-   Multi-Agent Architectures
+-   System Design
 
----
+------------------------------------------------------------------------
 
-# 🎯 2026 Goals
+# 🎯 Goals
 
-- 🚀 Launch an AI startup
-- 📚 Build personalized AI learning products for children
-- 🤝 Contribute more to open source
-- ☁️ Master cloud-native AI deployment
-- 📈 Publish production-grade AI projects
-- 🏆 Become an AI Engineer
+-   🚀 Launch an AI Startup
+-   📚 Build Personalized AI Learning Products
+-   🤝 Contribute More to Open Source
+-   ☁️ Master Cloud-native AI Deployment
+-   📈 Publish Production-grade AI Projects
+-   🏆 Become an AI Engineer
 
----
+------------------------------------------------------------------------
+
+# ⚡ Fun Facts
+
+-   💻 I love turning research into real products.
+-   🚀 I enjoy solving real-world problems with AI.
+-   📖 I believe in learning something new every day.
+
+------------------------------------------------------------------------
 
 # 🤝 Let's Connect
 
+```{=html}
 <p align="center">
+```
+`<a href="YOUR_LINKEDIN">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>`{=html}
+`</a>`{=html}
 
-<a href="https://www.linkedin.com/in/muhammad-hamdan-820141309/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+`<a href="mailto:YOUR_EMAIL">`{=html}
+`<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>`{=html}
+`</a>`{=html}
 
-<a href="mailto:hamdanzameer2003@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-<div align="center">
-
+::: {align="center"}
 ### 💬 *"Code with purpose. Build with curiosity. Learn without limits."*
 
-⭐ If you like my work, consider following my GitHub journey.
-
-</div>
+⭐ If you like my work, consider starring my repositories and following
+my GitHub journey.
+:::
