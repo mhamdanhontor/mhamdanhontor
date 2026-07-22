@@ -47,7 +47,9 @@ Large Language Models
        ▼
 Building Production AI Products 🚀
 ```
+## 🏅 Certifications
 
+- 📜 Big Data Hadoop Course — Udemy (July 2026)
 ---
 
 # 🧠 Current Focus
